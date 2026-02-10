@@ -1,0 +1,2 @@
+# Requires: circular-delay
+# (Not available on PyPI)
